@@ -1,1 +1,2 @@
 # Personal-Expense-Tracker
+This is a python program that gives the user various options such as adding expenses, viewing all expenses, getting the overall summary, saving expenses via a csv file, and loading expenses via a csv file. These are all of the functions that are included in this project that help the user track their expenses. This project includes machine learning(pandas) to download, view, and save the information into a csv file.
